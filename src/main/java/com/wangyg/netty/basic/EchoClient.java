@@ -7,7 +7,6 @@ import com.wangyg.netty.basic.util.Logger;
 import com.wangyg.netty.basic.util.Print;
 
 import java.io.IOException;
-import java.net.InetAddress;
 import java.net.InetSocketAddress;
 import java.nio.ByteBuffer;
 import java.nio.channels.SelectionKey;
@@ -75,7 +74,6 @@ public class EchoClient {
                                 socketChannel.write(buffer);
                                 buffer.clear();
                             }
-
                         }
                         if (sk.isReadable()) {
                             // 若选择键的IO事件是“可读”事件,读取数据

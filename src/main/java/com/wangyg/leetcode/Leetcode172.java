@@ -23,5 +23,4 @@ public class Leetcode172 {
         }
     }
 
-
 }
