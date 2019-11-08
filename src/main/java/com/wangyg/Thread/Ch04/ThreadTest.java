@@ -1,8 +1,8 @@
-package com.wangyg.Thread.Ch04;
+package com.wangyg.Thread.ch04;
 
 import java.security.AccessControlContext;
 
-public class Thread {
+public class ThreadTest {
 
     public static void main(String[] args) {
 

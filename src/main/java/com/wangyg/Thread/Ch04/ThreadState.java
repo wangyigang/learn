@@ -1,4 +1,4 @@
-package com.wangyg.Thread.Ch04;
+package com.wangyg.Thread.ch04;
 
 public class ThreadState {
     public static void main(String[] args) {

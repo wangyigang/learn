@@ -1,4 +1,4 @@
-package com.wangyg.Thread.Ch04;
+package com.wangyg.Thread.ch04;
 
 import java.util.concurrent.TimeUnit;
 
